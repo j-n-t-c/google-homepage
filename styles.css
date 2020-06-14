@@ -31,8 +31,10 @@ body {
     color: rgb(65, 64, 64);
 }
 
-#apps {
-    height: 20px;
+.fa-th {
+    display: flex;
+    font-size: 22px;
+    margin-top: auto;
 }
 
 #sign-in {
@@ -80,7 +82,7 @@ body {
     outline: none;
 }
 
-.fas {
+.fa-search {
     padding: 15px 0px 0px 15px;
     color: gray;
 }
